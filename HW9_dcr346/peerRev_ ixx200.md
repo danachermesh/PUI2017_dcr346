@@ -52,6 +52,6 @@ the black on black as displayed makes it very hard to discinguish and separate N
 
 At the view displayed by clicking the link SI is cropped, and SI is part of the plot: one of the data points in the plot is not visible until the user zooms out!
 
-9/10
+9.5/10 (you missed something pretty major, but you had a lot of good comments)
 
 
