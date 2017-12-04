@@ -27,3 +27,20 @@ The plot's title, labels, x and y ticks and legend exist and positioned correctl
 From the title the observer understands that this is the data of _all_ of Seatle bicycle trips and has no ides about the Fremont Bridge, which maked the title slightly misleading.
 - **Kind of plot:** A **bar plot** might have given us a more strait forward understanding of the data. Also, having the _total_ line makes the west/east lines too close and hence the differences between them insignificant. Using bar plot could have been useful in this sense, too: the bars of east/west could have been _stacked_ and you could have annotate the total number at the top of the stacked bar. 
 - **Colors:** The _green_ clolor of the total # and the _orange_ color of the east # will look too similar to blind-color people with Deuterwanopia and Protanopia disorder. The _green_ and the _blue_ lines will be observed as the same color by those who have Tritanopia disorder.
+
+
+# FBB feedback
+
+**esthetics** : why is this plot such low resolution?
+
+good job for understanding the ambiguity in what is plotted by looking at the code. At this point I am still uncertain what is plot: i though it was weekly rides, not hourly though!
+
+The glaring esthetic issue with this plot (as it is shown in your repo at least) is the low resolution which is distracting, and off-putting.
+
+The clarity is impaired by the redundancy: why is total and westward and eastward shown, while westward and eastward have negligeable differences that are almost certainly not significant, so total os just 2 x east or 2 x west?
+
+The y axis label is ambiguous: what is the quantity being plotted? "Number of treeps per week" would have been better
+
+The title does not need to say that this is a plot "Plot of Seattle weekly bicycle trips" -> "Seattle PRONTO bike usage September 2013- June 2015" (here yes you could use the dates, cause they are not clear from the plot, in fact using the exact data , e.g. 10/6/2015, would be very useful
+
+10/10
