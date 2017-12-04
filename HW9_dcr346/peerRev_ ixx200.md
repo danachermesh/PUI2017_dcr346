@@ -36,7 +36,22 @@ interactive map the quantities being visualized ambiguous?
 & Water Performance Map](https://serv.cusp.nyu.edu/projects/evt/). The red color map selected is a good and reasonable choice when representing building age data, the 5-colors legend is a good choice although it lacks the age-range each color represents. Also, a continious colors would have worked too.
 
 ### Appendix A: overlapping text frame
+
+
 ![alt text](https://github.com/danachermesh/PUI2017_dcr346/blob/master/HW9_dcr346/Screen%20Shot%202017-11-19%20at%2019.54.54.png)
 
 ### Appendix B: Refference to lot-colored map
 ![alt text](https://github.com/danachermesh/PUI2017_dcr346/blob/master/HW9_dcr346/Screen%20Shot%202017-11-19%20at%2018.47.51.png)
+
+
+# FBB feedback
+
+good, however there are 2 glaring failure in clarity in the original plot: 
+
+the black on black as displayed makes it very hard to discinguish and separate NYC from the rest of the geographical area. Especially because the consumption is indicated by dots at the center of an area, this does not help understanding the foreground (NYC, subject of the plot) from the background (geographical context). 
+
+At the view displayed by clicking the link SI is cropped, and SI is part of the plot: one of the data points in the plot is not visible until the user zooms out!
+
+9/10
+
+
