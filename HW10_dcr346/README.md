@@ -16,4 +16,9 @@ Worked on most of it with Rebbeca, Emily and Matt, discussed with Unisse about r
 
 ## Task 3 - Periodicity
 
-Worked alone on this task. 
+Made the card type data flattened to reveal (600,194) array of 600 MTA stations over 194 weeks.
+Applied the fourier test and set the periods following the [skeleton notebook](https://github.com/fedhere/PUI2017_fb55/blob/master/HW10_fb55/subway_timeseries_instructions.ipynb), than applied the test again and detected the 4 stations with the most prominent annual periodicity.
+
+Worked alone on this task, consulted Unisse and Matt regarding periodicity and the fourier test. 
+
+
