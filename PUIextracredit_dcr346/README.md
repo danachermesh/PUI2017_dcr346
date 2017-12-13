@@ -11,3 +11,7 @@ Retrieved from https://data.cityofnewyork.us/Housing-Development/DOB-Permit-Issu
 All data included is from year 2016 and were normalized by ...... (housing units/ income? total pop?/?? TBA)
 All private information were excluded.
 
+## Acknowledgment
+ This project is an expansion of my [former work](https://github.com/danachermesh/CivicAnalytics2017_dcr346/blob/master/Problem%20set%20-1/dcr346_CAproblemset1.ipynb) that had been done as a part of Civic Analytics course, taught by Prof. C.E. Kontokosta, NYU CUSP Fall 2017.
+ 
+ For the Census data, Dr. Bianco helped me understand how to best navigate through their website. Also, got help from [Gitter.com](https://gitter.im/uscensusbureau/general)
