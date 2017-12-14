@@ -1,4 +1,4 @@
-# code by Dr. Bianco, https://github.com/fedhere/choroplethNYC/blob/master/choroplethNYC.py
+# this code was writen by Dr. Bianco, https://github.com/fedhere/choroplethNYC/blob/master/choroplethNYC.py
 
 from __future__ import print_function, division
 import os
