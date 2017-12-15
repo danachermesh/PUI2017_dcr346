@@ -24,6 +24,6 @@ The [311 data](https://data.cityofnewyork.us/Social-Services/311-Service-Request
 311 is a relatively new citizens-city engagement system, of which not all citizens are taking advantage or aware. To overcome this bias the 311 data were normalized by dividing each zip code's number of building-related complaints by its overall number of 311 complaints (see [Ipython notebook](https://github.com/danachermesh/PUI2017_dcr346/blob/master/PUIextracredit_dcr346/311Allcomplaints_data.ipynb)).
 
 ## Acknowledgment
- This project is an expansion of my [former work](https://github.com/danachermesh/CivicAnalytics2017_dcr346/blob/master/Problem%20set%20-1/dcr346_CAproblemset1.ipynb) that had been done as a part of Civic Analytics course, taught by Prof. C.E. Kontokosta, NYU CUSP Fall 2017.
+This project is an expansion of my [former work](https://github.com/danachermesh/CivicAnalytics2017_dcr346/blob/master/Problem%20set%20-1/dcr346_CAproblemset1.ipynb) that had been done as a part of Civic Analytics course, taught by Prof. C.E. Kontokosta, NYU CUSP Fall 2017.
  
  For the Census data, Dr. Bianco helped me understand how to best navigate through their website. Also, got help from [Gitter.com](https://gitter.im/uscensusbureau/general)
