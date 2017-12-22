@@ -1,17 +1,16 @@
 # PUI2017_dcr346/HW2_dcr346 - README.md
 
-## Assignments:
-Assignment 1+2
+## Assignment 1+2
 - request API Key, and set an env var to it
 - parse json file to find appropriate fields
 - Assignment 2: check the output within csv file 
 
-Assignment 3
+## Assignment 3
 - read in open data file using pandas
 - make sure to select data with at least two numerical columns
 - create simple scatter plot
 
-Extra credit
+## Extra credit
 - read in open data file using pandas
 - make sure to select data with at least one temporal value and one numerical value
 - plot y variable dependant upon time
@@ -31,4 +30,3 @@ My selected data in the extra credit assignment included a very large list of da
 ```
 df2[::5].plot(kind="bar",x='Date', y='Block', rot=45, color="#D7F08F", figsize=(35,10), fontsize=15)
 ```
-For more than a day I tried to figure out what was wrong with my code/plot; Dr. Bianco reviewed it and assured that (at least regarding the plotting) it was fine. 
